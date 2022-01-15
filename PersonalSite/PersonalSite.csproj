@@ -108,6 +108,8 @@
     <Content Include="img\links\JoshuaFoley.jpg" />
     <Content Include="img\links\PatrickStephen.jpg" />
     <Content Include="img\logo.png" />
+    <Content Include="img\portfolio\DungeonApp.jpg" />
+    <Content Include="img\portfolio\StaticSite.jpg" />
     <Content Include="img\profilepicnobackground.png" />
     <Content Include="img\svg_icon\1.svg" />
     <Content Include="img\svg_icon\2.svg" />

@@ -6239,3 +6239,25 @@ h6 {
         color:  #DB9A64; 
         font-size: 30px;
     }
+
+.portfolio_area {
+    padding: 110px 0 90px 0;
+    background: #311E25;
+}
+
+    .portfolio_area div div a img {
+        border-radius: 75%
+    }
+
+    .portfolio_area div div a h3 {
+        color: #DB9A64;
+    }
+
+    .portfolio_area div div a h4 {
+        color: #DB9A64;
+    }
+
+    .portfolio_area div div a i {
+        color: #DB9A64;
+        font-size: 30px;
+    }
