@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,500,500i,700,900&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,500,500i,700,900&display=swap");
 
+#fontAwesomeLink{
+    font-size: 40px;
+}
+
 .active {
     color: ivory !important;
 }
@@ -6217,3 +6221,21 @@ h6 {
 
 /*# sourceMappingURL=style.css.map */
 
+.classmates_area {
+    padding: 110px 0 90px 0;
+    background: #311E25;
+    
+}
+
+    .classmates_area div div a img{
+        border-radius: 50%
+    }
+
+    .classmates_area div div a h3 {
+        color: #DB9A64;
+    }
+
+    .classmates_area div div a i {
+        color:  #DB9A64; 
+        font-size: 30px;
+    }

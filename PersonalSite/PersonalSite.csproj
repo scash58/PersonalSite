@@ -91,24 +91,24 @@
     <Content Include="fonts\gijgo-material.svg" />
     <Content Include="fonts\themify.svg" />
     <Content Include="img\about\my_img.png" />
-    <Content Include="img\banner\add_property.png" />
     <Content Include="img\banner\banner.png" />
-    <Content Include="img\banner\banner_2.png" />
     <Content Include="img\banner\bradcam.png" />
-    <Content Include="img\banner\contact_thumb.png" />
     <Content Include="img\banner\footer_bg.png" />
-    <Content Include="img\banner\home_details.png" />
-    <Content Include="img\banner\info_banner.png" />
-    <Content Include="img\banner\property.png" />
-    <Content Include="img\banner\property_details.png" />
-    <Content Include="img\banner\sprayed_bg.png" />
-    <Content Include="img\banner\testmonial.png" />
     <Content Include="img\banner\works_bg.png" />
     <Content Include="favicon.ico" />
     <Content Include="img\favicon.png" />
     <Content Include="img\footer_logo.png" />
+    <Content Include="img\links\AbbeyOutain.jpg" />
+    <Content Include="img\links\AndrewAllen.jpg" />
+    <Content Include="img\links\DonRichardson.jpg" />
+    <Content Include="img\links\EricFaith.jpg" />
+    <Content Include="img\links\JanetLester.jpg" />
+    <Content Include="img\links\JasonColobong.jpg" />
+    <Content Include="img\links\JoeMcguire.jpg" />
+    <Content Include="img\links\JoshuaFoley.jpg" />
+    <Content Include="img\links\PatrickStephen.jpg" />
     <Content Include="img\logo.png" />
-    <Content Include="img\profilepic.jpg" />
+    <Content Include="img\profilepicnobackground.png" />
     <Content Include="img\svg_icon\1.svg" />
     <Content Include="img\svg_icon\2.svg" />
     <Content Include="img\svg_icon\3.svg" />
@@ -363,6 +363,7 @@
     <Content Include="scss\_varriable.scss" />
     <Content Include="scss\style.scss" />
     <Content Include="scss\theme-default.scss" />
+    <Content Include="Scott-Cashion-Resume.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
