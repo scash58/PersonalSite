@@ -6261,3 +6261,28 @@ h6 {
         color: #DB9A64;
         font-size: 30px;
     }
+
+.resume_area {
+    padding: 110px 0 90px 0;
+    background: #311E25;
+}
+
+    .resume_area div div div h3 {
+        color: #DB9A64;
+    }
+
+    .resume_area div div div div h4 {
+        color: #DB9A64;
+    }
+
+    .resume_area div div div div h5 {
+        color: #DB9A64;
+    }
+
+    .resume_area div div div div p {
+        color: #DB9A64;
+    }
+
+    .resume_area div div div div ul li {
+        color: #DB9A64;
+    }
