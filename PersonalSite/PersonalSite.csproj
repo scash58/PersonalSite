@@ -72,6 +72,7 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\flaticon.css" />
     <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\fontawesome.css" />
     <Content Include="css\gijgo.css" />
     <Content Include="css\jquery-ui.css" />
     <Content Include="css\magnific-popup.css" />
