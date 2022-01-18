@@ -1468,7 +1468,7 @@ h3 {
 
 @media (max-width: 767px) {
     /* line 44, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
-    .slider_area .single_slider .slider_text h3 {
+    .slider_area .single_slider .slider_text h3  {
         font-size: 30px;
         margin-bottom: 30px;
         line-height: 45px;
@@ -1486,6 +1486,30 @@ h3 {
     /* line 44, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
     .slider_area .single_slider .slider_text h3 {
         font-size: 70px;
+    }
+}
+
+/*added for the .typed*/
+@media (max-width: 767px) {
+    /* line 44, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
+    .slider_area .single_slider .slider_text h3 .typed {
+        font-size: 20px;
+        margin-bottom: 30px;
+        line-height: 45px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* line 44, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
+    .slider_area .single_slider .slider_text h3 .typed {
+        font-size: 45px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    /* line 44, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
+    .slider_area .single_slider .slider_text h3 .typed {
+        font-size: 50px;
     }
 }
 
@@ -6295,4 +6319,9 @@ h6 {
 .resume_area_title {
     color: antiquewhite;
     font-size: 35px;
+}
+
+.typed {
+    color: #DB9A64;
+    font-size: 54px;
 }
